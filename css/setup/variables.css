@@ -1,0 +1,27 @@
+:root {
+  --bg-main-color: #f8f7f7;
+  --bg-main-color-dark: #0e0808;
+  --bg-secondary-color: #191414;
+  --bg-overlay-color: rgba(25, 20, 20, 0.8);
+  --text-main-color: #191414;
+  --text-light-color: #f7f8f8;
+  --text-secondary-color: #191414;
+  --outline-color: #389fcb;
+  --form-color: #eceff1;
+  --accent-color: #03bb0f;
+  --primary-color: #ffcc00;
+  --secondary-color: #1db954;
+  --tertiary-color: #ce2724;
+}
+
+
+/* body {
+  --my-variable: hsl(0, 36%, 38%);
+
+  --default-padding: 8px;
+}
+
+.btn {
+  color: var(--bg-main-color);
+  padding: var(--default-padding);
+}  */
